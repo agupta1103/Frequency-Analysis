@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=FrequencyAnalysis
+comment1.params=word
+comment1.target=int[]\ freqCalc(java.lang.String)
+numComments=2
